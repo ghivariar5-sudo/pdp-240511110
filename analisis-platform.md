@@ -30,3 +30,13 @@ Platform Web, Desktop, dan Mobile memiliki fungsi serta karakteristik yang berbe
 
 3. Android Developers. Android Fundamentals Starter Apps.
    https://github.com/google-developer-training/android-fundamentals-starter-apps
+
+## 5. Refleksi
+
+Menurut saya, platform Mobile merupakan platform yang menarik untuk dipelajari karena saat ini banyak aktivitas sehari-hari dilakukan melalui smartphone. Saya tertarik mempelajari bagaimana sebuah aplikasi mobile dibuat, mulai dari desain antarmuka hingga fungsi-fungsi yang dapat membantu kebutuhan pengguna. Selain itu, pengembangan aplikasi mobile dapat menjadi bekal untuk membuat aplikasi sendiri di masa depan.
+
+Tantangan yang saya temui dalam menyiapkan environment adalah memastikan semua tools pemrograman dapat digunakan dengan baik. Git, Node.js, NPM, dan Java JDK berhasil diperiksa melalui terminal. Namun, saat melakukan commit ke GitHub, saya mengalami kendala karena identitas nama dan email Git belum dikonfigurasi. Akibatnya, proses commit pertama kali gagal.
+
+Untuk mengatasi kendala tersebut, saya mempelajari pesan kesalahan yang muncul dan mengatur nama serta email Git melalui terminal. Setelah konfigurasi diperbaiki, proses commit dan push berhasil dilakukan sehingga file analisis dapat dikirim ke repository GitHub.
+
+Ke depannya, saya akan lebih teliti dalam mengikuti langkah-langkah instalasi dan konfigurasi tools. Saya juga akan mempelajari dokumentasi resmi, mencari solusi ketika mengalami kesalahan, serta berlatih menggunakan Git dan VS Code agar lebih terbiasa dengan lingkungan pengembangan perangkat lunak.
